@@ -18,7 +18,8 @@ Microsoft/AI it will train the main model because i like making Michaelsoft copi
 
 ai-super-dev/AI-chatbot will again be used to train the main model
 
-NousResearch/Gym is the main model
+aiwaves-cn/agents is the main model
 
 Aider-ai/aider will help the main model program
 
+hugohe3/ppt-master is powerpoint shenanigans
